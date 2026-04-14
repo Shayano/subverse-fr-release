@@ -30,8 +30,6 @@ Supprimer `pakchunk0_s99-WindowsNoEditor_French.pak` du dossier `Paks`.
 | Codex et lore | Traduit |
 | Combat au tour par tour | Traduit |
 | Combat spatial | Traduit |
-| Sous-titres des cinématiques | Non inclus (audio anglais) |
-
 ## Compatibilité
 
 - **Version du jeu** : Subverse v1.2.01 (Build ID: 21267736)
@@ -40,10 +38,8 @@ Supprimer `pakchunk0_s99-WindowsNoEditor_French.pak` du dossier `Paks`.
 
 ## Crédits
 
-- Traduction : Claude (Anthropic) + révision humaine
-- Pipeline technique : pyuepak, UnrealLocres
-- Base technique : TheDarkness_RU (patch russe)
 - Projet communautaire francophone de Subverse
+- Base technique : TheDarkness_RU (patch russe)
 
 ## Licence
 
